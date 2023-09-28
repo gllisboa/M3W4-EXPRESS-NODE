@@ -1,7 +1,6 @@
 import express from 'express'
 import bodyParser from 'body-parser'
 import CNPJAPI from './cnpj.api.js'
-import e from 'express'
 
 const app = express()
 const port = 3000
